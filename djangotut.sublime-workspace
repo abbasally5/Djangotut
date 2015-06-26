@@ -1,0 +1,417 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"no",
+				"novelty_hueristic"
+			],
+			[
+				"size",
+				"sizeof"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"op",
+				"opcodes_t"
+			],
+			[
+				"pr",
+				"process"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"jill",
+				"jill_account"
+			],
+			[
+				"add",
+				"addObject"
+			],
+			[
+				"ca",
+				"camMoveSpeed"
+			],
+			[
+				"cam",
+				"camRotateSpeed"
+			],
+			[
+				"sa",
+				"safeCase"
+			],
+			[
+				"sign",
+				"signX"
+			],
+			[
+				"si",
+				"signYmTsX"
+			],
+			[
+				"h",
+				"highbit"
+			],
+			[
+				"re",
+				"reverse"
+			],
+			[
+				"I",
+				"INT_MAX"
+			],
+			[
+				"show",
+				"show_float"
+			],
+			[
+				"my",
+				"my_list"
+			],
+			[
+				"c",
+				"c_ptr"
+			],
+			[
+				"fl",
+				"floatValue"
+			],
+			[
+				"long",
+				"longValue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 298.0,
+		"last_filter": "package control in",
+		"selected_items":
+		[
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: mips",
+				"Package Control: List Unmanaged Packages"
+			]
+		],
+		"width": 898.0
+	},
+	"console":
+	{
+		"height": 322.0,
+		"history":
+		[
+			"help",
+			"subl new",
+			"dir",
+			"ls",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abbasally5/Documents/Djangotut"
+	],
+	"file_history":
+	[
+		"/home/abbasally5/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/abbasally5/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/abbasally5/.config/sublime-text-3/Packages/User/Plain text.sublime-settings",
+		"/home/abbasally5/Documents/CS 429/Lab6/sim/pipe/pipe-full.hcl",
+		"/home/abbasally5/Documents/CS 429/Lab6/sim/pipe/ncopy.ys",
+		"/home/abbasally5/Downloads/sim/pipe/ncopy.ys",
+		"/home/abbasally5/Documents/CS 429/Lab5/sim/pipe/ncopy2.ys",
+		"/home/abbasally5/Documents/CS 429/Lab5/sim/pipe/cdriver0.ys",
+		"/home/abbasally5/Documents/CS 429/Lab5/sim/pipe/Makefile",
+		"/home/abbasally5/Documents/CS 429/Lab5/sim/pipe/ncopy.ys",
+		"/home/abbasally5/Documents/CS 429/Lab6/sim/pipe/ncopy2.ys",
+		"/home/abbasally5/Documents/CS 429/Lab6/sim/pipe/ncopy.c",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Maze/agent.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Hw1/main.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Hw1/__init__.py",
+		"/home/abbasally5/Downloads/neat-python/examples/test.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Hw1/agent.py",
+		"/home/abbasally5/Downloads/neat-python/examples/xor/xor2.py",
+		"/home/abbasally5/Downloads/neat-python/examples/xor/run.py",
+		"/home/abbasally5/Downloads/neat-python/examples/novelty",
+		"/home/abbasally5/Downloads/neat-python/MazeSolver.py",
+		"/home/abbasally5/Downloads/neat-python/examples/xor/xor2_config",
+		"/home/abbasally5/Downloads/neat-python/maze.py",
+		"/home/abbasally5/Downloads/neat-python/examples/novelty.py",
+		"/home/abbasally5/Downloads/neat-python/examples/pole_balancing/single_pole/single_pole.py",
+		"/home/abbasally5/Downloads/neat-python/GradientDescent.py",
+		"/home/abbasally5/Downloads/Hw1/agent.py",
+		"/media/abbasally5/Windows8_OS/Users/Abbas/Documents/CS 314/Asg 10 - Do You Know The Way to Muleshoe/Cons.java",
+		"/media/abbasally5/Windows8_OS/Users/Abbas/Documents/CS 314/Asg 10 - Do You Know The Way to Muleshoe/Graph.java",
+		"/media/abbasally5/Windows8_OS/Users/Abbas/Documents/CS 314/Asg 10 - Do You Know The Way to Muleshoe/graphtest.java",
+		"/media/abbasally5/Windows8_OS/Users/Abbas/Documents/CIG/Lab 3/test.py",
+		"/media/abbasally5/Windows8_OS/Users/Abbas/Documents/CIG/Lab 3/game.py",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly2.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly3.s",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/passraw.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/break.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/pass3.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/pass2.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/pass.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly3.txt",
+		"/home/abbasally5/Documents/prob362c.c",
+		"/home/abbasally5/Downloads/peter-ch-MultiNEAT-c28f0a0/setup.py",
+		"/home/abbasally5/Documents/CS 429/Lab5/sim/seq/seq-full.hcl",
+		"/home/abbasally5/Documents/CS 429/HW3.txt",
+		"/home/abbasally5/Documents/practice.c",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/code.s",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly2.o",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly3.o",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/assembly2.s",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/strings.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/cookie.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/odt.txt",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/assemble.out",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/phase4.txt",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/break.txt",
+		"/home/abbasally5/Documents/CS 429/ut-systems-1-resources/src/cprog-examples/weirdpointers.c",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/bomb.c",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/bomb2.s",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/pass.txt",
+		"/home/abbasally5/Documents/CS 429/Lab4/buflab-handout/bufbomb",
+		"/home/abbasally5/Documents/CS 429/bubble.c",
+		"/home/abbasally5/Documents/CS 429/ut-systems-1-resources/src/cprog-examples/numbers.c",
+		"/home/abbasally5/Documents/CS 429/bubbl.c",
+		"/home/abbasally5/Documents/CS 429/idk/sim.c",
+		"/home/abbasally5/Documents/CS 429/Lab3/bomb218/bomb.s",
+		"/home/abbasally5/Documents/CS 429/exploit/Makefile",
+		"/home/abbasally5/Documents/UAV/brain_dna.py",
+		"/home/abbasally5/Documents/UAV/dodge.py",
+		"/home/abbasally5/Desktop/testpractice.c",
+		"/home/abbasally5/Documents/CS 429/exploit/bank.c",
+		"/home/abbasally5/Documents/UAV/ga.py",
+		"/home/abbasally5/Documents/CS 429/Lab0/src/linkedlist/Makefile",
+		"/home/abbasally5/Documents/ffmpeg-2.4.2/Makefile",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/abs-asum-cmov.ys",
+		"/home/abbasally5/Documents/CS 429/ut-systems-1-resources/src/assembly/lecture1/multiplyasmexample/multiplybyeight.s",
+		"/home/abbasally5/Documents/CS 429/ut-systems-1-resources/src/cprog-examples/structfun.c",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/misc/examples.c",
+		"/home/abbasally5/Documents/CS 429/ut-systems-1-resources/src/assembly/lecture1/binarysearch-lecture1/binarysearch.s",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Training/pickindiv.txt",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/Training/StimAttackMoveApprFlag.txt",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/abs-asum-jmp.ys",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/poptest.ys",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/data/wall/BrickWall.xml",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/data/wall/BrickWall.obj",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/pushquestion.ys",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/ret-hazard.ys",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/prog1.ys",
+		"/home/abbasally5/Documents/CS 429/Lab2/cs429-asmlab/sim/y86-code/cjr.ys",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/__init__.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/Cube.xml",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/data/terrain/GrassyTerrain.xml",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/BrickWall.xml",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/environment.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/agent.py",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/data/character/SydneyAgent.xml",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/TESTMOD/main.py",
+		"/home/abbasally5/Documents/binsearch.s",
+		"/home/abbasally5/binsearch2.s",
+		"/home/abbasally5/Documents/practice.ys",
+		"/home/abbasally5/Documents/test.java",
+		"/home/abbasally5/Documents/CS 429/Lab1_BitLab/bits.c",
+		"/home/abbasally5/Documents/CS 429/Lab1_BitLab/README",
+		"/home/abbasally5/Documents/OpenNERO-2015-02-09-x86_64/nero_mod.py",
+		"/home/abbasally5/.config/sublime-text-3/Packages/User/R.sublime-settings",
+		"/home/abbasally5/Documents/ex1.c",
+		"/home/abbasally5/Documents/hello.c",
+		"/home/abbasally5/Documents/ut-systems-1-resources/src/linkedlist/main.c",
+		"/home/abbasally5/Documents/ut-systems-1-resources/src/linkedlist/linkedlist.h",
+		"/home/abbasally5/Documents/ut-systems-1-resources/src/linkedlist/Makefile",
+		"/home/abbasally5/Documents/ut-systems-1-resources/src/linkedlist/linkedlist.c",
+		"/home/abbasally5/Documents/ut-systems-1-resources/README.md",
+		"/home/abbasally5/Desktop/linkedlist.c"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"endf",
+			"End",
+			"irmovl",
+			"manha",
+			"r ",
+			"manh",
+			"ILEAVE",
+			"Ap2",
+			"Ap1",
+			"getbu",
+			"testi r",
+			"getbuf",
+			"test",
+			"getbu",
+			"gets",
+			"804917d",
+			"gets",
+			"getbu",
+			"gets",
+			"getb",
+			"00",
+			"getbuf",
+			"strings_not",
+			"400be0",
+			"read_s",
+			"400cb0",
+			"read_s",
+			"read_six",
+			"phase_1",
+			"read_six",
+			"phase",
+			"|"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "djangotut.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 428.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
