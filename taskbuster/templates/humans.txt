@@ -4,12 +4,13 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    Abbas -- Tutorial Follower -- nice try
 
 # THANKS
-
+    Thanks to all my Blog readers, who encouraged me to write the TaskBuster Django Tutorial
     <name>
 
 # TECHNOLOGY COLOPHON
-
+    Django
     HTML5, CSS3
     jQuery, Modernizr
